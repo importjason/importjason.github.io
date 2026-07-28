@@ -1,8 +1,8 @@
 %PDF-1.4
-%XXXX ReportLab Generated PDF document (opensource)
+%PDFTEXT                                           
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 7 0 R
 >>
 endobj
 2 0 obj
@@ -19,19 +19,38 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:xmflak20@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 210.2498 765.3386 294.4834 775.3386 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 143.794 709.2 228.0276 719.76 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://importjason.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 306.557 765.3386 387.7458 775.3386 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 240.1012 709.2 321.29 719.76 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 10 0 R /Resources <<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /HYGothic-Medium /DescendantFonts [ <<
+/BaseFont /HYGothic-Medium /CIDSystemInfo <<
+/Ordering (Korea1) /Registry (Adobe) /Supplement 1
+>> /DW 1000 /FontDescriptor <<
+/Ascent 752 /AvgWidth -271 /CapHeight 737 /Descent -142 /Flags 6 /FontBBox [ -6 -145 1003 880 ] 
+  /FontName /HYSMyeongJo-Medium /ItalicAngle 0 /Leading 148 /MaxWidth 1000 /MissingWidth 500 /StemH 0 
+  /StemV 58 /Type /FontDescriptor /XHeight 553
+>> /Subtype /CIDFontType0 /Type /Font 
+  /W [ 1 94 500 ]
+>> ] /Encoding /UniKS-UCS2-H /Name /F4 /Subtype /Type0 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 5 0 R ] /Contents 13 0 R /MediaBox [ 0 0 612 792 ] /Parent 12 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -39,9 +58,9 @@ endobj
 >> /Type /Page
 >>
 endobj
-7 0 obj
+9 0 obj
 <<
-/Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 10 0 R /Resources <<
+/Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 12 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -49,372 +68,63 @@ endobj
   /Type /Page
 >>
 endobj
-8 0 obj
-<<
-/PageMode /UseNone /Pages 10 0 R /Type /Catalog
->>
-endobj
-9 0 obj
-<<
-/Author (Jaeseung Kim) /CreationDate (D:20260728152225+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260728152225+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (Jaeseung Kim - Academic CV) /Trapped /False
->>
-endobj
 10 0 obj
 <<
-/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+/PageMode /UseNone /Pages 12 0 R /Type /Catalog
 >>
 endobj
 11 0 obj
 <<
-/Length 7455
+/Author (Jason Jaeseung Kim) /CreationDate (D:20260728164206+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260728164206+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Academic curriculum vitae) /Title (Jason Jaeseung Kim - Academic CV) /Trapped /False
 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-.090196 .239216 .360784 rg
-BT /F2 22 Tf 26.4 TL ET
-BT 1 0 0 1 48.18898 799.3701 Tm (Jaeseung Kim) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 48.18898 780.9449 Tm (Undergraduate Researcher in Medical Imaging and Computational MRI) Tj T* ET
-BT /F1 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 48.18898 767.3386 Tm (Yonsei University  |  Republic of Korea  |  xmflak20@gmail.com  |  importjason.github.io) Tj T* ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 747.4961 Tm (RESEARCH INTERESTS) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 735.5906 m 547.0866 735.5906 l S
-BT /F1 8.9 Tf 10.68 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 48.18898 726.2362 Tm (Computational MRI | Medical image learning | Quantitative imaging | Neuroimaging | Efficient deep learning) Tj T* ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 710.1669 Tm (EDUCATION) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 698.2614 m 547.0866 698.2614 l S
-.109804 .121569 .137255 rg
-BT /F2 9.7 Tf 11.64 TL ET
-BT 1 0 0 1 53.85827 688.9071 Tm (Yonsei University) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 470.773 688.9071 Tm (Expected Feb 2027) Tj T* ET
-BT /F1 8.4 Tf 10.08 TL ET
-.329412 .356863 .388235 rg
-BT 1 0 0 1 48.18898 677.0016 Tm (B.S. Candidate, Biomedical Engineering \(Mirae Campus\) | Second Major, Electrical & Electronic Engineering \(Sinchon Campus\)) Tj T* ET
-.964706 .972549 .980392 rg
-.737255 .788235 .835294 RG
-.45 w
-n 48.18898 642.2567 124.7244 28.91339 re B*
-.329412 .356863 .388235 rg
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 102.3166 659.8315 Tm (GPA) Tj T* ET
-.109804 .121569 .137255 rg
-BT /F2 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 89.75678 649.0598 Tm (4.03 / 4.30) Tj T* ET
-.964706 .972549 .980392 rg
-.737255 .788235 .835294 RG
-.45 w
-n 172.9134 642.2567 124.7244 28.91339 re B*
-.329412 .356863 .388235 rg
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 216.895 659.8315 Tm (4.50 Scale) Tj T* ET
-.109804 .121569 .137255 rg
-BT /F2 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 214.4812 649.0598 Tm (4.18 / 4.50) Tj T* ET
-.964706 .972549 .980392 rg
-.737255 .788235 .835294 RG
-.45 w
-n 297.6378 642.2567 124.7244 28.91339 re B*
-.329412 .356863 .388235 rg
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 341.836 659.8315 Tm (Percentile) Tj T* ET
-.109804 .121569 .137255 rg
-BT /F2 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 337.9824 649.0598 Tm (97.90 / 100) Tj T* ET
-.964706 .972549 .980392 rg
-.737255 .788235 .835294 RG
-.45 w
-n 422.3622 642.2567 124.7244 28.91339 re B*
-.329412 .356863 .388235 rg
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 453.2642 659.8315 Tm (Department Rank) Tj T* ET
-.109804 .121569 .137255 rg
-BT /F2 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 473.7156 649.0598 Tm (1 / 49) Tj T* ET
-.913725 .933333 .952941 rg
-.737255 .788235 .835294 RG
-n 48.18898 605.1228 102.0472 28.62992 re B*
-1 1 1 rg
-n 150.2362 605.1228 396.8504 28.62992 re B*
-.109804 .121569 .137255 rg
-BT /F2 7.7 Tf 9.24 TL ET
-BT 1 0 0 1 53.85827 619.0126 Tm (Selected Coursework) Tj T* ET
-BT /F1 7.75 Tf 9.3 TL ET
-BT 1 0 0 1 155.9055 621.8472 Tm (Image Processing and Applications; Human Physiology; Human Anatomy; Computer Programming; Digital) Tj T* ET
-BT 1 0 0 1 155.9055 612.2094 Tm (Signal Processing; Signals and Systems; Electromagnetics) Tj T* ET
-.913725 .933333 .952941 rg
-.737255 .788235 .835294 RG
-n 48.18898 580.7449 102.0472 24.37795 re B*
-1 1 1 rg
-n 150.2362 580.7449 396.8504 24.37795 re B*
-.109804 .121569 .137255 rg
-BT /F2 7.7 Tf 9.24 TL ET
-BT 1 0 0 1 53.85827 590.3827 Tm (Recent Coursework) Tj T* ET
-BT /F1 7.75 Tf 9.3 TL ET
-BT 1 0 0 1 155.9055 593.2173 Tm (Deep Learning Laboratory; Public Health and Medical Big Data Analysis; Bioelectronics) Tj T* ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 572.2409 Tm (RESEARCH EXPERIENCE) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 560.3354 m 547.0866 560.3354 l S
-.109804 .121569 .137255 rg
-BT /F2 9.7 Tf 11.64 TL ET
-BT 1 0 0 1 53.85827 550.9811 Tm (Advanced Image Processing Techniques Lab, Yonsei University) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 464.4194 550.9811 Tm (Dec 2023 - Feb 2026) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.5 Tf 10.2 TL ET
-BT 1 0 0 1 48.18898 539.0756 Tm (Undergraduate Researcher | Advisor: Prof. Joon Yul Choi | Mirae Campus) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 527.737 Tm (- Conducted 3D medical-imaging research spanning preprocessing, model development, quantitative evaluation, and statistical) Tj T* ET
-BT 1 0 0 1 63.77953 518.337 Tm (analysis.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 507.5197 Tm (- Built reproducible volumetric imaging pipelines for registration, masking, resampling, quality control, and downstream analysis.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 496.7024 Tm (- Investigated variability across MRI sequences, scanners, vendors, and acquisition parameters, emphasizing robust validation and) Tj T* ET
-BT 1 0 0 1 63.77953 487.3024 Tm (harmonization.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 476.485 Tm (- Performed voxel-wise group analyses and interpreted quantitative imaging measures using SPM12-based workflows.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 465.6677 Tm (- Prepared two first-author journal manuscripts; project-specific methods and results are withheld before submission at the advisor's) Tj T* ET
-BT 1 0 0 1 63.77953 456.2677 Tm (request.) Tj T* ET
-.109804 .121569 .137255 rg
-BT /F2 9.7 Tf 11.64 TL ET
-BT 1 0 0 1 53.85827 441.7654 Tm (Bio-Metamaterials Lab, Yonsei University) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 468.3266 441.7654 Tm (Jul 2022 - Aug 2022) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.5 Tf 10.2 TL ET
-BT 1 0 0 1 48.18898 429.8598 Tm (Undergraduate Researcher | Advisor: Prof. Seung-Ho Choi | Mirae Campus) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 418.5213 Tm (- Supported the initial installation and setup of an ellipsometer and analyzed the compositional and optical properties of biomaterials.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 407.7039 Tm (- Developed a prototype tensile-testing device and implemented a MATLAB-based user interface for measurement verification.) Tj T* ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 392.3512 Tm (PUBLICATIONS, PRESENTATIONS, AND RESEARCH OUTPUTS) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 380.4457 m 547.0866 380.4457 l S
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 371.0913 Tm (- Two first-author journal manuscripts in preparation in medical imaging; project-specific details withheld before submission.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 360.274 Tm (- Oral Presentation and Outstanding Paper Award \(Oral Presentation Division\), Korean Society of Medical & Biological Engineering) Tj T* ET
-BT 1 0 0 1 63.77953 350.874 Tm (2025 Fall Conference, Nov 2025.) Tj T* ET
-BT /F1 8.25 Tf 9.9 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 340.0567 Tm (- Poster accepted, NEURO2026, Jul 2026.) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 7.5 Tf 9 TL ET
-BT 1 0 0 1 542.9166 22.67717 Tm (1) Tj T* ET
- 
-endstream
 endobj
 12 0 obj
 <<
-/Length 6360
+/Count 2 /Kids [ 8 0 R 9 0 R ] /Type /Pages
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3086
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 799.3701 Tm (ENTREPRENEURSHIP AND LEADERSHIP) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 787.4646 m 547.0866 787.4646 l S
-.109804 .121569 .137255 rg
-BT /F2 9.7 Tf 11.64 TL ET
-BT 1 0 0 1 53.85827 778.1102 Tm (CareProofRecord - AI-Generated Medical Explanation Video Platform) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.8 Tf 10.56 TL ET
-BT 1 0 0 1 467.3498 778.1102 Tm (Jun 2025 - Apr 2026) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 8.5 Tf 10.2 TL ET
-BT 1 0 0 1 48.18898 766.2047 Tm (Project Lead) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 754.8661 Tm (- Planned and developed an AI service intended to reduce information-transfer errors during surgical and clinical explanations and) Tj T* ET
-BT 1 0 0 1 63.77953 745.0661 Tm (improve patient understanding.) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 733.5654 Tm (- Designed a video-generation service architecture intended to mitigate hallucination risk and preserve long-context consistency.) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 722.0646 Tm (- Received KRW 1,000,000 in support after review by the university entrepreneurship center in Sep 2025.) Tj T* ET
-BT /F1 8.5 Tf 10.2 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 710.5638 Tm (- Assessed potential clinical use cases and demand with prospective users, including regional medical centers.) Tj T* ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 693.3937 Tm (SCHOLARSHIPS AND HONORS) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 681.4882 m 547.0866 681.4882 l S
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 672.1339 Tm (- National Science & Engineering Scholarship) Tj T* ET
-1 1 1 rg
-n 52.85827 670.1339 240.1102 11 re f*
-.109804 .121569 .137255 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 53.85827 672.1339 Tm (- National Science & Engineering Scholarship, Korea Student Aid) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 63.77953 662.9339 Tm (Foundation - full tuition, Spring/Fall 2023 and Spring 2026) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 651.7339 Tm (- Han Kyung-beom Scholarship) Tj T* ET
-1 1 1 rg
-n 52.85827 649.7339 240.1102 11 re f*
-.109804 .121569 .137255 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 53.85827 651.7339 Tm (- Han Kyung-beom Scholarship, Yonsei University - full tuition,) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 63.77953 642.5339 Tm (Spring/Fall 2022) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 631.3339 Tm (- Jinri Scholarship for Academic Excellence) Tj T* ET
-1 1 1 rg
-n 52.85827 629.3339 240.1102 11 re f*
-.109804 .121569 .137255 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 53.85827 631.3339 Tm (- Jinri Scholarship for Academic Excellence, Yonsei University,) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 63.77953 622.1339 Tm (Fall 2021) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 53.85827 610.9339 Tm (- Academic Achievement Awards) Tj T* ET
-1 1 1 rg
-n 52.85827 608.9339 240.1102 11 re f*
-.109804 .121569 .137255 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 53.85827 610.9339 Tm (- Academic Achievement Awards, Yonsei University, 2021-2023) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 308.9764 672.1339 Tm (- Excellence Award) Tj T* ET
-1 1 1 rg
-n 307.9764 670.1339 240.1102 11 re f*
-.109804 .121569 .137255 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 308.9764 672.1339 Tm (- Excellence Award, Yonsei University Algorithm Competition,) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 318.8976 662.9339 Tm (2022) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 308.9764 651.7339 Tm (- Grand Prize) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 360.0132 651.7339 Tm (, ASC Programming Competition, 2021) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 308.9764 640.5339 Tm (- Grand Prize) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 360.0132 640.5339 Tm (, MEDICI+ Startup Competition, 2021) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 308.9764 629.3339 Tm (- Honorable Mention) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 388.2458 629.3339 Tm (, WAVE-LAB Startup Competition, 2025) Tj T* ET
-BT /F2 8.2 Tf 9.84 TL ET
-.109804 .121569 .137255 rg
-BT 1 0 0 1 308.9764 618.1339 Tm (- Encouragement Award) Tj T* ET
-1 1 1 rg
-n 307.9764 616.1339 240.1102 11 re f*
-.109804 .121569 .137255 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 308.9764 618.1339 Tm (- Encouragement Award, Post Corona-19 Startup Challenge,) Tj T* ET
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 318.8976 608.9339 Tm (2022) Tj T* ET
-.090196 .239216 .360784 rg
-BT /F2 12.2 Tf 14.64 TL ET
-BT 1 0 0 1 48.18898 589.2299 Tm (TECHNICAL SKILLS) Tj T* ET
-.737255 .788235 .835294 RG
-.55 w
-n 48.18898 577.3244 m 547.0866 577.3244 l S
-.913725 .933333 .952941 rg
-.737255 .788235 .835294 RG
-n 48.18898 543.8756 121.8898 24.09449 re B*
-1 1 1 rg
-n 170.0787 543.8756 377.0079 24.09449 re B*
-.109804 .121569 .137255 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 53.85827 553.2299 Tm (Programming) Tj T* ET
-BT /F1 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 175.748 556.0646 Tm (Python; MATLAB; Bash; Linux) Tj T* ET
-.913725 .933333 .952941 rg
-.737255 .788235 .835294 RG
-n 48.18898 519.7811 121.8898 24.09449 re B*
-1 1 1 rg
-n 170.0787 519.7811 377.0079 24.09449 re B*
-.109804 .121569 .137255 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 53.85827 529.1354 Tm (Medical Imaging) Tj T* ET
-BT /F1 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 175.748 531.9701 Tm (FSL; ANTs; SPM12; registration; masking; resampling; VBM; voxel-wise group analysis) Tj T* ET
-.913725 .933333 .952941 rg
-.737255 .788235 .835294 RG
-n 48.18898 490.8677 121.8898 28.91339 re B*
-1 1 1 rg
-n 170.0787 490.8677 377.0079 28.91339 re B*
-.109804 .121569 .137255 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 53.85827 505.0409 Tm (Research Methods) Tj T* ET
-BT /F1 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 175.748 507.8756 Tm (3D medical-image preprocessing; quantitative evaluation; image-to-image regression; statistical) Tj T* ET
-BT 1 0 0 1 175.748 497.9543 Tm (interpretation) Tj T* ET
-.329412 .356863 .388235 rg
-BT /F1 7.5 Tf 9 TL ET
-BT 1 0 0 1 542.9166 22.67717 Tm (2) Tj T* ET
- 
-endstream
+Gb!;f>BAQ-&q801fXIW!,aR@gCgN-L8aA3VHn9R*FN,sf"\EZ(630Y<alLKd(F2FQZ7MtLk+(';o)]KY?0m%;m4o)dr+5#/S-#3Si0QA2QiiNi0[K;tnd`qmY<K[0oh<]@!XN)`$3PYW#:qsB=VQDJ\<4\ukQZ2ioK^`0iG*3-!aIM"`>ro6>24+2Bbo?%jP]64$GEo2<uJ[4+r=fKLHf>G'20HTnhU]co2(tWi:!O6NnoT2>l'#rj/,?UT//egLe(NFR?:Ida9oSYQKgl<<(plI'0+>#1(uuIPjUH!$9d!g>4P"q=1G?p>blaBj#igJWCiLg_$d4t*4`_m=R4Fa_[_+]BW]U8d)M6rcsi,=Xh\b9Ra`0X6W.FgSj;aC3_T5Qa8YfqjYF)M<E\!qCKkWqkn*nOV>%AYe<_i%7&EVRM[.s4CG(N6H#H8sr-N=`Ym%&2OC(Da2)lAO9_pGDA[-bMPSSX`hQCji2fB8\7shHT2(m)mM]$_Yamd!5oC;Y?k4EkBoD\B*gdn^C@Q1"t%g1#Kp:`M]pOs+PY(Kq>Yj#C#R/Qs*2QKi`R92?*`1/kd3t_cubgj"\*,kB)_p6ljr+98N6X%7UL'5LcM/E,!]ipE_TtkM&4>[ZkbABRcBSAo#g[^>HS&gamAG%,&%')R>/9t8e]!i=>7/+oq$OfLrI*Q<[2dn.I1DriJ'egA3$&RS$1\2^9;aI5&"in0HZ=YJ2=tI(MQEe(uB_c3`;LI7j?rkctY-]\MVfIS.:J*Fbg?B99`UN<s5&lrGStFi1N[>S2YP.abB3VP1j85N3XOYrEE`rqH#hqOW6\oW(A/8Uu<]!sTESWiZQ4&P[!o60*ZM4h13&-eT?6cA43Fi??B:.L-j-"S//`]YdI4AbqM1L>%0tp>)O%fOqXl1rBl;VuL2.gKVTp4`4Q6Is"[#r48Q5>33V"WZ$H^YeS!S@&tfCq3(p\>7cis_L=KP(`R[)+cS+>jsK9a$+hPOM\m$H)Cs5:B6l4\nl\D(J=g>$\.%`a(rA$B\K(^eh2bGr\q(0XQR/ieV?[,;6>C4?Noh(F`#("AX)Z:ul^"'`uPt50!]jM?KU*R5YO)]13SBE6s73P(;Gm7n1a\>bQhpY?*Gr9TSoZi*H*]4Nk.aqs6>M7lq>6Es!+lO3!o*Ks(G77.r1hL,!SBBI.jR&%updE&KP)qZdJr";JBC"crT?nT%tE*FlC:?+D]TR\4H8N^>8%;/Tui`+G;ugrXn[LB?aPZ!@bZ`hMMT4qgSl$d*O0_m9khi>iWSM:e]tN%?$XJ:R@efTtGQn-AS!;IYJFoQr(s"#"0fr!4P:fEn/s"]SQf#+eHsbrtsG]Oo0)CESpINZ"nC\mnKc2Do!p=a/)L+p5PnIFaEAMfsR5f4_EPjC>PZ9CNg1OgK`,C:e61gRXJ"2\q5NCh-&4cGcR,++?)Z;,Jh7I*Yb>!j8qg7@lGLb%S=Z&0m%1jKIN9,%4!W*6U@iX*3psqGqJT)Lp$?OlH9W<,pkj'JdtmU0ZfMR`fs#U>GEeV0Sd,kLXij,W)Wa<E,EU(N^%d93s/;b%XFPOGMW&R]&MrU$M7jKnnOh:QW5OA.;m.O`NMB"c#t"rq<QM+/sqbbtEZ[s'D>T>b#/lT"iLiHuqaUa0,ku`#JaP]"f]Sn;cX@p,?Jk:J:C#OeY.[$_dGOR]^lNA+4<Ra$dk(9R\N]:0uP-/Om4)VQi"J4HSmqi+W\<bdpYl-=W]V0(QB<M$7aoUc\0Z.crP<]%fNI@VA,s/,^u$De?giKnSa;14do.P11T<0X[8-cl3I!Yn#K1p0n%_W!Pe/J>eZ?'h9ZT4=Z^iSJMB7((4Z22$4rM`?XG43L.,?10^_g7<bu)I%f+:jB8HX+rNMc]WF/#"'1EmLld6/$+6;2E7d]='a9p,WYi`TJ1a5FKmPOQGb(2qWC07P1:$u!6f=5ps-7*DP?/NH5g9Z=CO!3@)^g$TQ=jYQ'"(,3R[UgfFn#g`6tQ%a.BA"td4A.U3QtYgf7gaNF"N?&rEZgPAQl5(bIdhf94_&2U^hUR,GW!A=i'k&V3=e("[)#XTVn$RTRqeY"dX0X'$P!Rii&m$$XN(_o)+.1)cRnh+u/8KdO?[@V4N;D8Z67>RKaFA;AirD*]%%jn9!-ApgIm^6O<G#O%Ct0'mc[G)a@GE/c!(:)Xpk04?#aOa__W*o024icS@o95-..1<P!(onG$KB&R*<BOb.V\W0r<->(SJc*jsoe`@A$rdm.X4jg:lL;gX>6p)p71II)O7+*Sbh*lcfubSf4->Wb</\Q7f))F:G';lkr>$B"K]oQe?iaY%:q'QTUt!VO3H$8p":V)<i4RXp!D)#L`^;P'/!XQ:',7!pK\LjS_kdfpL+]sb@1hSAdrERGQQhJ4u-C-h^r/=E,$27Q%N7IGt*P5+>B1iin&:tJ"H\!RX[=Z`"[8*/NrG.qpskImCnh-nek$bpi8*h+f9^T6D$[Mo?>G'sl3,HO7D/=-QAA7kD*bRbmFN?B)/,\^Jf\L9/-e-muq,`,dgaoFs9/JMo+./i0='Lo+>RCYVYQA*FT#jG!5n&1;eZd!I#QYPnjqgub-s$lQB,5Z<l[8=j*V81a/Ef'!FaW[,uOJIKk)!>V`k[)A5(a[f$CWbFO3L[T"S^b_[k(;<!W8*?llmc;E(YLVJL(WsD6Q4a_j0sd<Vkqr*kj!>=H?4'h)8k\'%'HS\\sf"XpR[F!/s[XHa)?:9/?77Q)KP&jQh0TM%ZOjp`A)W`n!e.!k6G"%MP<#\&9G!Q;AG^HR6LS4Zf]8X[*L!AN7<QMk5@=[eZ#On=3iV^B"MmmXDuIM2=GNX-hQZ(nn&9,A!'7Z`Z-!,^!quY^jBpE-^^42hhg3V"i=8O8B`q]N.KA$f2K3FeZBan=hSmf:3h&d*S`Z+NCW0WG&9?S?gjN3*TA*Nb;p(So4[U\VuAKHN#ToV^7+&hMPWS,L8`c^:InY_U^8ntGd84`h*0(&KO641AjR07lbeuk;/5^s)*dUAk@dXSUb]J]GsOjVlMUA<4Vc"cW&&@rUM?a&R6LR+GoK6`bH?;M6FjV;`Q\?/kcp0)nEM[5Qs4/~>endstream
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2857
+>>
+stream
+Gb!;e>Bedl&q801W(1J)Blue9jU#E:PCW$$-9cd:?Y$.Pm7:ug-.tl8r:mC/?+AN(QmB!Wq\Z,HWOqGrb?*4P_8'DVI0MFAkoB\FDLuT=Hi^+>4"qboE;o"k)mak=C$RBn*)#b1p]aLWL1cmF$bBnrQAOM-CNR,taQ4@Gc"o;b4da:"\qR3NVHVlSePBepnSg0(T#()lVrQ/)VSh)k593uos7-RfPO%aX1;'.OkG,*$[kN;^q/7P++8EI2b4\@U];lmr?E"PMVIMpH[e)1c#$jk+Mr3A.C:-rY"bWMeZmlX<e8`;KD(8[ZNq`>CY]JR`4120kEODnL&^6IPIlmhbFt5GA:K_PJ?"pf=f[ZIfD$^m)VB=IihR8Y?jsa$dOU'gEL>Gt>)Mg@)E^/_2nKXDp7keM*8?uJ9!=aXQKJ4![W==NFX;me:</Ro-A>]kWRoD4aVc$^1P&fmcR9t)0@;Y5nb&';)Zt#h_g(qu[6TD=ZbH:Nh2PqBA?8dN%Xutu7Gtd&N(8q:QP_:T!plXXQj"t4"?7@G!aEY"D[()$=TO86-gs9)om7*#pF$4jrha,g^0>[.Y,W&B8cFSG3:'I$9R#HaAVEW`2lSlJ=cg;a>p't-s:3ju+T!5:"4:.`+,jfjC0/:\(N0V[?#R$3qN$T@fq'45#!m>Uj:"FXB!gS*t`oA8C?DjoNc6V71Z7WWZ4h,VC^&)ki)i0.e*KaP#4=W%i.-NFX5q[\OnbM/pjS')8@Y&c8+;ReH=3/TUVa.%]&;o-'W9l`TjG9!AnN0l79#P4GqFjp6Yc7@TCjqZbEN1);#>*\!c(cG]KC:Zcc9tKjV^!Hk?6?J'B-^]X8a16mN^r.>V-\r[6A/YI=`Ke5cNQauA/XuME/uM3Z:LduUqW]&%Q,8JV<3hKY3FJ`]Ma\G*qmp7e(M_(qK95e1!Mf20@*\%m8Rg_T<`:hZi5_rFY1Q77Mq)P+1>S8984[#6'NZ_d%EVO:,0p9A$M,*Peli^)I^-*kPU.@.c;5O%Ag.UL:'][bO`;Fke&P]5iugFUoB"V'&.[%FV8a)X"hMQ9QoWXkW_f]-%DXK8#VTHU5LKReK)L8)3^+D?kh&j963^ZOqG;K5;\=l@C.E8Jk9?J$<^sE9Gp`9IS]JG$N2_Yju>f"&f-YEZ9g1cJ2KFnM:CTO>U@1uW[u@p(>bAigKbP15D(6,=N6[7.sN<ue!;On<JI]NUATc<(?ECWQisC-#RNI9!5A)H#5<Q\@CiQ<<V#L?67eu"-kWag=!:R!c.SF'&5'K-&ia2M::j%]3!^MUduC-=3J9"=3Z/QV#Top&@($K]TKeYM9on<i,AoaOOElt_iR:cI*;ft4N\:"Gfb</+oXa`U3Y&D&Jm:hleJ'_N9BjKPECRRrdI!R#/*._$JH2[jWA$RBD*55I0O-:nAamY0Hdln8(>WtqX#RC0c\oHp:Ou,2dO\%j$pt98-"M1lNlXfcIPs6G([&]P`T:d[+2dH_BKVm":5!IpOSulRs#Ub>"7D((kd51pVps%n]Z,"TN#pg0:p36GJnYfDR^t[R^U;n54gHFoM(hR9G"W3h/*`o1M(uX1ZlZeBd>N?&?TY=(f\H(6IP6j*9`"@#s0N$Pc1a@<o;)/e3uNUuD7K>P[6A(OV.r:Cqt4:MpBP@q(RXW;@%W^$P*QKXm$BEo0qVC0gr%otofQShpugrAF5^WWaNFc9(*Q%oHh=)-RXQX_:`K$SYCL8T570Gd=t'hb@YtmGqL/R:c+b44bL'c_lG<:4gqt%XT(QK74Ya(1b*pgJP^p]$p'J^4iO[Y+5sj['`4o<uHp!tli)+l1OnQ`"<VQ3U#9J_qYtCNjHHaHrR+?mFUJIpKVr%;]_D"<nh6N9TReDg6b^k$2--'afo>?>-UF,Eb(_JgD)8`E4n%nX2Ua_^)kT[&,)XMcc]j7H!&gk/("!al]W>'YEUFJ.5o[BM`ml?d,oM3GL3[U\8h/:-Z.WO$">2<#DIOTEkA&e@To`HkMi*+Ab?Ikm3ZaQX?WFr;-1QIg`BUR=`KCZ%qi'eudNoJ-agteY60!<3BeW'!*@E19J]DKe#Y[_f+24dU3*PL5+).hT7I3:QYYXbD@*<T`;?j^F<od@*(?:;LW4^7CV.m>%eH(b]Lq`KOQJR(uQ`G;\+U'U=AX4uBm=fPN<k0Iq]3EH(.j_ESaI=#(UB7'E!1]Rb<1`(W3l"cD4mtu?gftffbaYNOs*D`d$hLbc8.Ea^K\LQBAJ\rtrfPY;7AdshB89A_)q^J\p&,_O.4M]B/?r<`4@0;VS3o6IXAi1+-Ut]4ts1LGPip-)L3`BZmrL<fYCepe0>uS4]rHd:;H^,MqVC^&.1d&;CDUZAD.b`^oh,[Jnf8Q_3T@VYS*LtWts)2HUj`0RNSZW;IE)kuDZ,j>6$k*"]?\[cNeKRc!897X,r2jhG\!Cgf[rlK=#%!dKh-(i2M^(&nDG"nhq\GCJea.$k3nt!,//FBPPN;<e\<<3iYN[I054+o+ASb#1BrQ=?V1\99UZr[YRRirV%aI^$Z5;Lra^](M<K@f.X[P9?Y-l3@A88pieX6N5/2u]!*06BeA\O5WOH!2)o,VOCWF5*%>H:-ah+PKHGfP-mhc(Lu&Z!?\ahONboOe8.>DN2hP-Z\m%<7mIL0FmEIp8eln8'ourJn6i*\=u)G[l]?gjLE1LB>JjbJEXDT/OHJU.G;uAM+,Z0g8Uh'08Z.WGhVTLDi)![8&A:'*VkVMj6OA')TpUeKgtu?Ag@)+=*72RcutBL<^lDZ=H&Qmt_V5?'WZPkCE-:H"ag7D^I$e7B`VGnuA-,ae6f=*V0-nllG1Om-q`KiRG84B-$ApiH)<-3kY8AK;VB-~>endstream
 endobj
 xref
-0 13
+0 15
 0000000000 65535 f 
 0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000498 00000 n 
-0000000679 00000 n 
-0000000908 00000 n 
-0000001113 00000 n 
-0000001182 00000 n 
-0000001464 00000 n 
-0000001530 00000 n 
-0000009037 00000 n 
+0000000122 00000 n 
+0000000229 00000 n 
+0000000341 00000 n 
+0000000512 00000 n 
+0000000687 00000 n 
+0000000802 00000 n 
+0000001370 00000 n 
+0000001589 00000 n 
+0000001784 00000 n 
+0000001854 00000 n 
+0000002169 00000 n 
+0000002235 00000 n 
+0000005413 00000 n 
 trailer
 <<
 /ID 
-[<2cd9a05724a31cc9be261bfb1984e88a><2cd9a05724a31cc9be261bfb1984e88a>]
+[<744e705c1bcb6c152849429e30480acb><744e705c1bcb6c152849429e30480acb>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 9 0 R
-/Root 8 0 R
-/Size 13
+/Info 11 0 R
+/Root 10 0 R
+/Size 15
 >>
 startxref
-15449
+8362
 %%EOF
