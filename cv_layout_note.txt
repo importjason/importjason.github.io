@@ -1,0 +1,1 @@
+CV layout updated: separate citizenship, email, and portfolio lines; increased section and line spacing.
