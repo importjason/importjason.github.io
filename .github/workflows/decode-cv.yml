@@ -1,0 +1,31 @@
+name: Publish CV PDF
+
+on:
+  push:
+    paths:
+      - 'cv_base64_v8.txt'
+      - '.github/workflows/decode-cv.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode and publish PDF
+        shell: bash
+        run: |
+          if [ ! -f cv_base64_v8.txt ]; then
+            echo "No CV payload found; nothing to publish."
+            exit 0
+          fi
+          base64 --decode cv_base64_v8.txt > Jaeseung_Kim_Academic_CV.pdf
+          rm -f cv_base64_v8.txt cv-research-structure-v8.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Jaeseung_Kim_Academic_CV.pdf cv_base64_v8.txt cv-research-structure-v8.txt
+          git commit -m "Publish restructured academic CV" || exit 0
+          git push
